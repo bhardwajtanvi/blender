@@ -5,4 +5,4 @@ blender 3D images
 ![](chess.jpg)
 ![](landscape.jpg)
 ![](mirror.jpg)
-[!(water.png)](https://youtu.be/g6wvx9H3BdM)
+[![animation-1](water.png)](https://youtu.be/g6wvx9H3BdM)
