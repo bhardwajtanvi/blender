@@ -7,6 +7,8 @@ blender 3D images
 ![](/images/mirror.jpg)
 ![](/images/randomizetransform1.jpg)
 ![](/images/staircase.png)
+![](/images/mirror2.png)
+![](/images/dinningset.png)
 ![](/images/banner1.jpg)
 ![](/images/banner3.jpg)
 
