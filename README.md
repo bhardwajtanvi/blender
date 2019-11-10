@@ -7,6 +7,7 @@ blender 3D images
 ![](/images/chess2.png)
 ![](/images/spotchess.png)
 ![](/images/spotchess1.png)
+![](/images/areachess1.png)
 ![](/images/landscape.jpg)
 ![](/images/mirror.jpg)
 ![](/images/randomizetransform1.jpg)
