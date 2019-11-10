@@ -3,7 +3,7 @@ blender 3D images
 ![](/images/apple.jpg)
 ![](/images/cartoon1.png)
 ![](/images/chess.jpg)
-![](/images/areachess.jpg)
+![](/images/areachess.png)
 ![](/images/landscape.jpg)
 ![](/images/mirror.jpg)
 ![](/images/randomizetransform1.jpg)
