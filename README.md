@@ -30,6 +30,9 @@ blender 3D images
 <img src="/images/tree.png" width="400" height="600" align="left">
 
 
+# Garden scenes
+![](/images/staircase1.png)
+![](/images/staircase2.png)
 
 
 ![](/images/banner1.jpg)
