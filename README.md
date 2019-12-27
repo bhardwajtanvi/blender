@@ -3,6 +3,7 @@ blender 3D images
 
 <img src="./images/apple.jpg" width="400" height="250">
 <img src="./images/cartoon1.png" width="400" height="250">
+<img src="./images/tree.png" width="350" height="500">
 ![](/images/cartoon1.png)
 ![](/images/chess.jpg)
 ![](/images/areachess.png)
@@ -16,7 +17,6 @@ blender 3D images
 ![](/images/staircase.png)
 ![](/images/mirror(2).png)
 ![](/images/dinningset1.png)
-<img src="./images/tree.png" width="350" height="500">
 ![](/images/banner1.jpg)
 ![](/images/banner3.jpg)
 
