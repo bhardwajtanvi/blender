@@ -8,7 +8,9 @@
 <img src="/images/tree.png" width="400" height="600" align="left">
       
       
-        Apple                                                             
+       
+       
+       Apple                                                             
 ![](/images/apple.jpg)
             Basic_Views
 ![](/images/views.png)
@@ -60,15 +62,6 @@
 
           ANIMATION
 
-[![](/images/water.png)](https://youtu.be/g6wvx9H3BdM)
-[![Animation 1]](https://youtu.be/g6wvx9H3BdM)
-[![](/images/halloween.jpg)](https://youtu.be/fvJbgI1veM4)
-[![Animation 2]](https://youtu.be/fvJbgI1veM4)
-[![](/images/cube.png)](https://youtu.be/a3AYM-34UJ8)
-[![Animation 3]](https://youtu.be/a3AYM-34UJ8)
-[![](/images/uvsphre.jpg)](https://youtu.be/AOBb0QF19pA)
-[![Animation 4]](https://youtu.be/AOBb0QF19pA)
-[![](/images/Thumbnail1.png)](https://youtu.be/ObXSNTooe2A)
 [![Multiple Heart Animation]](https://youtu.be/ObXSNTooe2A)
 [![](/images/THUMBNAIL.png)](https://youtu.be/kC0sPNoPNSQ)
 [![Low Poly Car Animation]](https://youtu.be/kC0sPNoPNSQ)
@@ -78,3 +71,12 @@
 [![Glass Break with CAR]](https://youtu.be/niQsZ8cuGBk)
 [![](/images/uvsphre.jpg)](https://youtu.be/Ni7qzIPXEXs)
 [![Sphere with Beat Drop]](https://youtu.be/Ni7qzIPXEXs)
+[![](/images/water.png)](https://youtu.be/g6wvx9H3BdM)
+[![Animation 1]](https://youtu.be/g6wvx9H3BdM)
+[![](/images/halloween.jpg)](https://youtu.be/fvJbgI1veM4)
+[![Animation 2]](https://youtu.be/fvJbgI1veM4)
+[![](/images/cube.png)](https://youtu.be/a3AYM-34UJ8)
+[![Animation 3]](https://youtu.be/a3AYM-34UJ8)
+[![](/images/uvsphre.jpg)](https://youtu.be/AOBb0QF19pA)
+[![Animation 4]](https://youtu.be/AOBb0QF19pA)
+[![](/images/Thumbnail1.png)](https://youtu.be/ObXSNTooe2A)
