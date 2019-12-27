@@ -2,7 +2,7 @@
 blender 3D images
 
 <img src="./images/apple.jpg" width="500" height="300">
-![](/images/apple.jpg)
+<img src="./images/cartoon1.png" width="500" height="300">
 ![](/images/cartoon1.png)
 ![](/images/chess.jpg)
 ![](/images/areachess.png)
