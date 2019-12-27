@@ -1,8 +1,6 @@
 # blender
 blender 3D images
-
-
-Orthographic_views
+<img src="./images/apple.jpg" width="350" height="500">
 ![](/images/apple.jpg)
 ![](/images/cartoon1.png)
 ![](/images/chess.jpg)
