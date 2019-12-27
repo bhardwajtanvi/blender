@@ -3,7 +3,7 @@ blender 3D images
 
 # Apple
 ![](/images/apple.jpg)
-# Cartoon
+# Carton
 ![](/images/cartoon1.png)
 # Different angles and transition on chess board
 ![](/images/chess.jpg)
@@ -14,16 +14,19 @@ blender 3D images
 ![](/images/chess2.png)
 # rough landscape 
 ![](/images/landscape.jpg)
-# Gate like structure using mirror effect
+# Mirror Effect (1)
 ![](/images/mirror.jpg)
+# Mirror Effect (2)
+![](/images/mirror(2).png)
 # Random feature 
 ![](/images/randomizetransform1.jpg)
 # Array modifier
 ![](/images/staircase.png)
-![](/images/mirror(2).png)
+# Dinning set
 ![](/images/dinningset1.png)
-
+# Pslv
 <img src="/images/pslv.png" width="400" height="600" align="right">
+# Tree
 <img src="/images/tree.png" width="400" height="600" align="left">
 
 
