@@ -3,7 +3,6 @@ blender 3D images
 
 <img src="./images/apple.jpg" width="400" height="250" align="left"  >
 <img src="./images/cartoon1.png" width="400" height="250" align="right">
-apple
 <img src="./images/tree.png" width="400" height="500" align="right">
 <img src="./images/chess.jpg" width="400" height="250" align="left">
 <img src="./images/areachess.png" width="400" height="250" align="left">
@@ -11,6 +10,7 @@ apple
 <img src="./images/spotchess1.png" width="400" height="250">
 <img src="./images/areachess1.png" width="400" height="250">
 <img src="./images/chess2.png" width="400" height="250">
+
 ![](/images/landscape.jpg)
 ![](/images/mirror.jpg)
 ![](/images/randomizetransform1.jpg)
