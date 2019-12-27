@@ -1,7 +1,7 @@
 # blender
 blender 3D images
 
-<img src="./images/apple.jpg" width="400" height="250" align="left" >Apple
+Apple<img src="./images/apple.jpg" width="400" height="250" align="left" >
 <img src="./images/cartoon1.png" width="400" height="250" align="right">
 <img src="./images/tree.png" width="400" height="500" align="right">
 <img src="./images/chess.jpg" width="400" height="250" align="left">
