@@ -15,6 +15,13 @@
 # Garden scenes
 ![](/images/staircase1.png)
 ![](/images/staircase2.png)
+
+
+# Array modifier
+![](/images/staircase.png)
+# Dinning set
+![](/images/dinningset1.png)
+
 # Carton
 ![](/images/cartoon1.png)
 # Different angles and transition on chess board
@@ -32,10 +39,7 @@
 ![](/images/mirror(2).png)
 # Random feature 
 ![](/images/randomizetransform1.jpg)
-# Array modifier
-![](/images/staircase.png)
-# Dinning set
-![](/images/dinningset1.png)
+
 
 
 
