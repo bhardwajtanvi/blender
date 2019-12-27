@@ -3,21 +3,9 @@ blender 3D images
 
 
 
-apple<img src="./images/apple.jpg" width="400" height="250" align="left">
-
-
-
-
+<img src="./images/apple.jpg" width="400" height="250" align="left">
 <img src="./images/tree.png" width="400" height="500" align="right">
-tree
-
-
-
 <img src="./images/cartoon1.png" width="400" height="250" align="left">
-cartoon
-
-
-
 ![](/images/chess.jpg)
 ![](/images/areachess.png)
 ![](/images/spotchess.png)
