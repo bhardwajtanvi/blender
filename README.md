@@ -1,6 +1,6 @@
 # blender
 blender 3D images
-![](/images/basic_views.png)
+![](/images/basic_views.png=100*100)
 Orthographic_views
 ![](/images/apple.jpg)
 ![](/images/cartoon1.png)
