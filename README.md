@@ -2,8 +2,8 @@
 blender 3D images
 
 <img src="./images/apple.jpg" width="400" height="250">
-<img src="./images/cartoon1.png" width="400" height="250" align="right">
-<img src="./images/tree.png" width="350" height="500">
+<img src="./images/cartoon1.png" width="400" height="250">
+<img src="./images/tree.png" width="350" height="500" align="right">
 <img src="./images/chess.jpg" width="400" height="250">
 <img src="./images/areachess.png" width="400" height="250">
 <img src="./images/spotchess.png" width="400" height="250">
