@@ -29,6 +29,11 @@ blender 3D images
 ![](/images/staircase1.png)
 ![](/images/staircase2.png)
 
+
+![](/images/banner1.jpg)
+
+![](/images/banner3.jpg)
+
 # 3D modelling
 <img src="/images/pslv.png" width="400" height="600" align="right">
 
@@ -37,8 +42,6 @@ blender 3D images
 
 
 
-
-![](/images/banner3.jpg)
 
 # Animation
 
