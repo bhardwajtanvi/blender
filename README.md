@@ -8,8 +8,9 @@
 <img src="/images/tree.png" width="400" height="600" align="left">
       
       
-        Apple                                                             Basic_Views
+        Apple                                                             
 ![](/images/apple.jpg)
+            Basic_Views
 ![](/images/views.png)
 
 
