@@ -17,7 +17,7 @@ Orthographic_views
 ![](/images/staircase.png)
 ![](/images/mirror(2).png)
 ![](/images/dinningset1.png)
-<img src="./images/tree.png" width="300" height="500">
+<img src="./images/tree.png" width="350" height="500">
 ![](/images/banner1.jpg)
 ![](/images/banner3.jpg)
 
