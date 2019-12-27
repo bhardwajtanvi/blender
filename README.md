@@ -1,6 +1,6 @@
 # blender
 blender 3D images
-![](/images/basic_views.png|width=10)
+![](/images/basic_views.png)
 Orthographic_views
 ![](/images/apple.jpg)
 ![](/images/cartoon1.png)
@@ -16,8 +16,7 @@ Orthographic_views
 ![](/images/staircase.png)
 ![](/images/mirror(2).png)
 ![](/images/dinningset1.png)
-![](/images/tree.png)
-3D_tree
+<img src="/image/tree.png" width="40%">
 ![](/images/banner1.jpg)
 ![](/images/banner3.jpg)
 
