@@ -1,7 +1,7 @@
 # blender
 blender 3D images
 
-<img src="./images/apple.jpg" width="500" height="300">
+<img src="./images/apple.jpg" width="400" height="200">
 <img src="./images/cartoon1.png" width="500" height="300">
 ![](/images/cartoon1.png)
 ![](/images/chess.jpg)
