@@ -2,6 +2,7 @@
 blender 3D images
 
 ![](/images/apple.jpg)
+![](/images/cartoon1.png)
 ![](/images/chess.jpg)
 ![](/images/areachess.png)
 ![](/images/spotchess.png)
