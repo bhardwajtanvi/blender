@@ -29,10 +29,9 @@ blender 3D images
 
 <img src="/images/tree.png" width="400" height="600" align="left">
 
-
+# Texture Effect
 ![](/images/banner1.jpg)
 ![](/images/banner3.jpg)
-# Banners using Texture Effect
 
 Animation
 
