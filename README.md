@@ -33,6 +33,8 @@ blender 3D images
 
 
 # Banners using Texture Effect
+
+
 ![](/images/banner1.jpg)
 ![](/images/banner3.jpg)
 
