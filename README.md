@@ -37,7 +37,6 @@ blender 3D images
 
 
 
-![](/images/banner1.jpg)
 
 ![](/images/banner3.jpg)
 
