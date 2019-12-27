@@ -7,11 +7,10 @@ blender 3D images
 <img src="./images/chess.jpg" width="400" height="250">
 <img src="./images/areachess.png" width="400" height="250">
 <img src="./images/chess2.png" width="400" height="250">
+<img src="./images/spotchess.png" width="400" height="250">
+<img src="./images/spotchess1.png" width="400" height="250">
+<img src="./images/areachess1.png" width="400" height="250">
 
-![](/images/chess2.png)
-![](/images/spotchess.png)
-![](/images/spotchess1.png)
-![](/images/areachess1.png)
 ![](/images/landscape.jpg)
 ![](/images/mirror.jpg)
 ![](/images/randomizetransform1.jpg)
