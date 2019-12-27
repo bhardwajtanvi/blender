@@ -2,10 +2,10 @@
 blender 3D images
 
 
-<img src="./images/apple.jpg" width="400" height="250" align="left">
+
+apple<img src="./images/apple.jpg" width="400" height="250" align="left">
 
 
-apple
 
 
 <img src="./images/tree.png" width="400" height="500" align="right">
