@@ -1,5 +1,4 @@
-# blender
-blender 3D images
+# Blender
 
 # Apple
 ![](/images/apple.jpg)
@@ -45,7 +44,7 @@ blender 3D images
 
 
 
-  # Animation
+        # Animation
 
 [![](/images/water.png)](https://youtu.be/g6wvx9H3BdM)
 [![Animation 1]](https://youtu.be/g6wvx9H3BdM)
