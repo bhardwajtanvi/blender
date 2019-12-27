@@ -16,7 +16,7 @@ blender 3D images
 ![](/images/mirror(2).png)
 ![](/images/dinningset1.png)
 
-<img src="/images/tree.png" wigth="550" height="500">
+<img src="/images/tree.png" wigth="550" height="500" align="left">
 <img src="/images/pslv.png" width="350" height="500" align="right">
 
 ![](/images/banner1.jpg)
