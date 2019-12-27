@@ -1,5 +1,6 @@
 # blender
 blender 3D images
+![](/images/basic_views.png)
 ![](/images/apple.jpg)
 ![](/images/cartoon1.png)
 ![](/images/chess.jpg)
