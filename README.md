@@ -6,8 +6,8 @@ blender 3D images
 <img src="./images/tree.png" width="350" height="500">
 <img src="./images/chess.jpg" width="400" height="250">
 <img src="./images/areachess.png" width="400" height="250">
+<img src="./images/chess2.png" width="400" height="250">
 
-![](/images/areachess.png)
 ![](/images/chess2.png)
 ![](/images/spotchess.png)
 ![](/images/spotchess1.png)
