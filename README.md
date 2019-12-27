@@ -1,17 +1,24 @@
 # blender
 blender 3D images
 
+# Apple
 ![](/images/apple.jpg)
+# Cartoon
 ![](/images/cartoon1.png)
+# Different angles and transition on chess board
 ![](/images/chess.jpg)
 ![](/images/areachess.png)
 ![](/images/spotchess.png)
 ![](/images/spotchess1.png)
 ![](/images/areachess1.png)
 ![](/images/chess2.png)
+# rough landscape 
 ![](/images/landscape.jpg)
+# Gate like structure using mirror effect
 ![](/images/mirror.jpg)
+# Random feature 
 ![](/images/randomizetransform1.jpg)
+# Array modifier
 ![](/images/staircase.png)
 ![](/images/mirror(2).png)
 ![](/images/dinningset1.png)
