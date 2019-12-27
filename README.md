@@ -1,7 +1,7 @@
 # blender
 blender 3D images
 
-<img src="./images/basic_views.png" width="300" height="300">
+
 Orthographic_views
 ![](/images/apple.jpg)
 ![](/images/cartoon1.png)
